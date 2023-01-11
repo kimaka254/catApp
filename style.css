@@ -1,9 +1,11 @@
 .main {
-   /* margin: 20px; */
-    width: 100%;
-    max-width: 300px;
-    min-height: 100vh;
-    
+  /* margin: 20px; */
+  padding-top: 10px;
+  width: 100%;
+  max-width: 300px;
+  min-height: 100vh;
+  border: 0.1px solid #099fff;
+  border-radius: 3%;
 }
 
 h2 {
